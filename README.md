@@ -10,14 +10,10 @@
 
 
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muasx88&theme=dark&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muasx88&theme=dark&layout=compact" />
-
-<!-- <a href="https://github.com/muasx88">
+<a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muasx88&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muasx88&theme=dark&layout=compact" />
-</a>   -->
+</a>
 
 <!--
 **muasx88/muasx88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
